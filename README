@@ -1,0 +1,5 @@
+Get started with caddy on a brand new system.
+
+    git clone https://github.com/oxalorg/caddy-quickstart.git
+    cd caddy-quickstart
+    sudo caddy.sh
